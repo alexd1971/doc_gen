@@ -1,0 +1,17 @@
+{
+  "name": "html2pdf",
+  "version": "1.0.0",
+  "description": "HTML to PDF conversion via chrome headless",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexey Danilevsky",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "html-pdf-chrome": "^0.5.0",
+    "pug": "^2.0.3"
+  }
+}
