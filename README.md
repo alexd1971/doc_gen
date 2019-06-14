@@ -18,8 +18,8 @@ services:
     networks:
       - net
   html2pdf:
-    image: alexd1971/html2pdf
-    container_name: html2pdf
+    image: alexd1971/doc_gen
+    container_name: doc-gen
     depends_on: 
       - chrome
     networks: 
