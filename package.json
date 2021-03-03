@@ -12,6 +12,6 @@
   "dependencies": {
     "express": "^4.16.4",
     "html-pdf-chrome": "^0.5.0",
-    "pug": "^2.0.3"
+    "pug": "^3.0.1"
   }
 }
