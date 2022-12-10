@@ -10,7 +10,7 @@
   "author": "Alexey Danilevsky",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "html-pdf-chrome": "^0.5.0",
     "pug": "^2.0.3"
   }
